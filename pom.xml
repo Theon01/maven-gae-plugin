@@ -146,6 +146,7 @@
         <module>gae-archetype-gwt</module>
         <module>gae-archetype-wicket</module>
         <module>gae-archetype-objectify-jsp</module>
+        <module>gae-archetype-spring</module>
       </modules>
     </profile>
   </profiles>
